@@ -1,0 +1,7 @@
+{
+  "name": "AAA Collision Center",
+  "description": "A high-end, modern web application for AAA Collision Center in Houston, featuring AI-powered damage assessment and repair guidance.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
